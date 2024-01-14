@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://music.bi-li.fun/:match*"
+      "destination": "http://120.24.176.162/:match*"
     }
   ]
 }
